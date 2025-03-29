@@ -1,0 +1,7 @@
+
+// PRIMERA FUNCION PARA REGISTRAR UN NUEVO USUARIO
+// YO USUARIO ADMINISTRADOR--- ESTOY AJUSTANDO EL CÓDIGO DE LA PRIMERA FUNCION
+
+
+
+// Agregando segunda funcion - soy usuario colaboradorr
